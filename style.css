@@ -1,0 +1,53 @@
+ .heading{
+    font-size: 23px;
+    box-shadow: 13px 5px 55px red;
+    margin: 0;
+    width: 100%;
+    background: linear-gradient(45deg, red,blue,silver,rgb(0, 255, 30));
+ }
+ .note{
+    font-size: 18px;
+
+ }
+ body{
+    background-size: cover;
+ }
+ .speed img{
+    width: 200px;
+    border-radius: 150px;
+ }
+ .speed{
+    float: left;
+    margin: 10px;
+ }
+ #H3SPEED{
+    font-size: 23px;
+    margin: 15px;
+ }
+ .VOLUME{
+    float: right;
+    margin: 20px;
+    
+ }
+ .VOLUME img{
+ width: 200px;
+ border-radius: 150px;
+ }
+ button{
+    background-color: rgb(255, 0, 0);
+    font-size: 23px;
+    padding: 5px;
+    width: 100px;
+    font-weight: bold;
+    box-shadow: 1px 5px 15px blueviolet;
+    
+ }
+ button:hover{
+    background-color: cyan;
+    border-radius: 20px;
+    box-shadow: 15px 5px 30px rgb(25, 0, 255);
+ }
+ canvas{
+   border: 30px solid chocolate;
+   border-radius: 15px;
+ }
